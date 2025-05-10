@@ -2,7 +2,7 @@
 const products = [
   {
     id: 1,
-    name: "Lavender Dream Jar",
+    name: "Testaki re",
     description: "Relaxing lavender scent in a matte white jar",
     price: 24.99,
     category: "jar",
