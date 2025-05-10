@@ -1,53 +1,53 @@
 // Sample product data
 const products = [
-  {
-    id: 1,
-    name: "Testaki re",
-    description: "Relaxing lavender scent in a matte white jar",
-    price: 24.99,
-    category: "jar",
-    image: "https://images.unsplash.com/photo-1605100804763-247f67b3557e?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
-  },
-  {
-    id: 2,
-    name: "Vanilla Pillar",
-    description: "Classic vanilla in a smooth pillar design",
-    price: 19.99,
-    category: "pillar",
-    image: "https://images.unsplash.com/photo-1594035910387-fea47794261f?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
-  },
-  {
-    id: 3,
-    name: "Citrus Burst Tealights",
-    description: "Set of 12 energizing citrus-scented tealights",
-    price: 14.99,
-    category: "tealight",
-    image: "https://images.unsplash.com/photo-1585771724684-38269d6639fd?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
-  },
-  {
-    id: 4,
-    name: "Sandalwood Jar",
-    description: "Earthy sandalwood in a sleek black jar",
-    price: 26.99,
-    category: "jar",
-    image: "https://images.unsplash.com/photo-1585771724684-38269d6639fd?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
-  },
-  {
-    id: 5,
-    name: "Ocean Breeze Pillar",
-    description: "Fresh ocean scent in a textured pillar",
-    price: 22.99,
-    category: "pillar",
-    image: "https://images.unsplash.com/photo-1594035910387-fea47794261f?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
-  },
-  {
-    id: 6,
-    name: "Lemon Grass Tealights",
-    description: "Set of 12 refreshing lemongrass tealights",
-    price: 16.99,
-    category: "tealight",
-    image: "https://images.unsplash.com/photo-1585771724684-38269d6639fd?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
-  }
+  // {
+  //   id: 1,
+  //   name: "Testaki re",
+  //   description: "Relaxing lavender scent in a matte white jar",
+  //   price: 24.99,
+  //   category: "jar",
+  //   image: "https://images.unsplash.com/photo-1605100804763-247f67b3557e?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+  // },
+  // {
+  //   id: 2,
+  //   name: "Vanilla Pillar",
+  //   description: "Classic vanilla in a smooth pillar design",
+  //   price: 19.99,
+  //   category: "pillar",
+  //   image: "https://images.unsplash.com/photo-1594035910387-fea47794261f?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+  // },
+  // {
+  //   id: 3,
+  //   name: "Citrus Burst Tealights",
+  //   description: "Set of 12 energizing citrus-scented tealights",
+  //   price: 14.99,
+  //   category: "tealight",
+  //   image: "https://images.unsplash.com/photo-1585771724684-38269d6639fd?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+  // },
+  // {
+  //   id: 4,
+  //   name: "Sandalwood Jar",
+  //   description: "Earthy sandalwood in a sleek black jar",
+  //   price: 26.99,
+  //   category: "jar",
+  //   image: "https://images.unsplash.com/photo-1585771724684-38269d6639fd?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+  // },
+  // {
+  //   id: 5,
+  //   name: "Ocean Breeze Pillar",
+  //   description: "Fresh ocean scent in a textured pillar",
+  //   price: 22.99,
+  //   category: "pillar",
+  //   image: "https://images.unsplash.com/photo-1594035910387-fea47794261f?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+  // },
+  // {
+  //   id: 6,
+  //   name: "Lemon Grass Tealights",
+  //   description: "Set of 12 refreshing lemongrass tealights",
+  //   price: 16.99,
+  //   category: "tealight",
+  //   image: "https://images.unsplash.com/photo-1585771724684-38269d6639fd?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+  // }
 ];
 
 // DOM Elements
